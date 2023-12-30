@@ -24,14 +24,18 @@ Use len() to find the total words.
 Use len() to find the total words.
 
 ## PROGRAM:
-#TO find the word count using command line arguments
-#developed by : OVIYA P
-#register number:212223110033
+## TO find the word count using command line arguments
+## developed by : OVIYA P
+## register number:212223110033
 
 fp=open(sys.argv[1])
+
 data=fp.read()
+
 words=data.split()
+
 print("Total Words:",len(words))
+
 ### OUTPUT:
 ![OUTPUT](https://github.com/Oviya24032K6/command-line-arguments-to-count-word/assets/147139999/cd1094f1-6782-4797-a724-ccf70ca71245)
 
