@@ -33,6 +33,7 @@ data=fp.read()
 words=data.split()
 print("Total Words:",len(words))
 ### OUTPUT:
-![OUTPUT](https://github.com/Oviya24032K6/command-line-arguments-to-count-word/assets/147139999/2bdea70f-65cd-42db-8766-e628a5dee6a9)
+![OUTPUT](https://github.com/Oviya24032K6/command-line-arguments-to-count-word/assets/147139999/cd1094f1-6782-4797-a724-ccf70ca71245)
+
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
